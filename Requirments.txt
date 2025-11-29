@@ -1,0 +1,7 @@
+1.Numpy
+2.Pandas
+3.Matplot
+4.SeaBorn
+5.sklearn
+6.XGBoost
+7.LightGBM
